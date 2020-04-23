@@ -64,34 +64,35 @@ td,
 th,
 tr,
 p {
-  line-height: 24px;
+  line-height: 26px;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  font-size: 16px;},
+  font-size: 18px;},
 
 a {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  font-size: 16px
+  font-size: 18px
 }
 
 strong {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 heading {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  font-size: 24px;
+  font-size: 26px;
+  font-weight: normal;
 }
 
 papertitle {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 700
 }
 
 name {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  font-size: 36px;
+  font-size: 38px;
 }
 
 .one {
