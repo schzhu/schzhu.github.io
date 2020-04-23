@@ -49,7 +49,7 @@
 }
 
 a {
-  color: #1772d0;
+  color: #169CCF;
   text-decoration: none;
 }
 
@@ -63,7 +63,11 @@ body,
 td,
 th,
 tr,
-p,
+p {
+  line-height: 24px;
+  font-family: 'Georgia';
+  font-size: 16px;},
+
 a {
   font-family: 'Georgia';
   font-size: 16px
@@ -76,7 +80,7 @@ strong {
 
 heading {
   font-family: 'Georgia';
-  font-size: 22px;
+  font-size: 24px;
 }
 
 papertitle {
@@ -87,7 +91,7 @@ papertitle {
 
 name {
   font-family: 'Georgia';
-  font-size: 32px;
+  font-size: 36px;
 }
 
 .one {
