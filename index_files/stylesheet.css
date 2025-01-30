@@ -1,106 +1,97 @@
 /* latin-ext */
 @font-face {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-style: italic;
   font-weight: 400;
   unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
-@font-face {la
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+@font-face {
+  font-family: Helvetica, Arial, sans-serif;
   font-style: italic;
   font-weight: 400;
 }
 /* latin-ext */
 @font-face {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-style: italic;
   font-weight: 700;
 }
 /* latin */
 @font-face {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-style: italic;
   font-weight: 700;
 }
 /* latin-ext */
 @font-face {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
 }
 /* latin */
 @font-face {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
 }
 /* latin-ext */
 @font-face {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: 700;
 }
 /* latin */
 @font-face {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: 700;
 }
-
 a {
   color: #169CCF;
   text-decoration: none;
 }
-
 a:focus,
 a:hover {
   color: #f09228;
   text-decoration: none;
 }
-
 body,
 td,
 th,
 tr,
 p {
   line-height: 26px;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  font-size: 18px;},
-
-a {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  font-size: 18px
-}
-
-strong {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 18px;
 }
-
+a {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px
+}
+strong {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+}
 heading {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 26px;
   font-weight: normal;
 }
-
 papertitle {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-weight: 700
 }
-
 name {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 38px;
 }
-
 .one {
   width: 160px;
   height: 160px;
   position: relative;
 }
-
 .two {
   width: 160px;
   height: 160px;
@@ -109,13 +100,11 @@ name {
   -moz-transition: opacity .2s ease-in-out;
   -webkit-transition: opacity .2s ease-in-out;
 }
-
 .fade {
   transition: opacity .2s ease-in-out;
   -moz-transition: opacity .2s ease-in-out;
   -webkit-transition: opacity .2s ease-in-out;
 }
-
 span.highlight {
   background-color: #ffffd0;
 }
